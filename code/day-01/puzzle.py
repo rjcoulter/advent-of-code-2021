@@ -13,4 +13,3 @@ for i in range(1, len(values)):
     if values[i] > values[i - 1]: increases += 1
 
 print(increases)
-
